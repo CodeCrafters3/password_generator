@@ -44,4 +44,4 @@ elif password_type == 2:
 elif password_type == 3:
     print(hard_password())
 else:
-    print("Please enter a number 1,2 or 3!")
+    print("Please enter a number 1,2 or 3...")
